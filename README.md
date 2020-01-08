@@ -1,4 +1,4 @@
-# Haptics Demo for iPhone [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)]
+# iOS Haptics ![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
 
 Haptics engage people's sense of touch to enhance the experience of interacting with onscreen interfaces. You can read more [here](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/) 
 
@@ -22,6 +22,6 @@ Haptics engage people's sense of touch to enhance the experience of interacting 
 
 ---
 
-###  Switcher preview in dark mode with some custom tint colors
+###  Haptics Demo for iPhones
 
 ![](images/app.png)
