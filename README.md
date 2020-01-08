@@ -19,3 +19,9 @@ Haptics engage people's sense of touch to enhance the experience of interacting 
 ## Selection
 
 -   [Selection](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
+
+---
+
+###  Switcher preview in dark mode with some custom tint colors
+
+![](images/app.png)
