@@ -22,6 +22,6 @@ Haptics engage people's sense of touch to enhance the experience of interacting 
 
 ---
 
-###  Haptics Demo for iPhones
+###  Haptics Demo for iPhone
 
 ![](images/app.png)
