@@ -1,6 +1,6 @@
-MIT License
+# MIT License [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](https://opensource.org/licenses/MIT)
 
-Copyright (c) 2020 Rui Aureliano
+## Copyright (c) 2020 Rui Aureliano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
