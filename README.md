@@ -1,7 +1,5 @@
 # iOS Haptics [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md)
 
-##  Haptics Demo for iPhone
-
 ![](images/app.png)
 
 Haptics engage people's sense of touch to enhance the experience of interacting with onscreen interfaces. You can read more [here](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/) 
