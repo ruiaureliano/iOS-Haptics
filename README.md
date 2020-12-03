@@ -1,4 +1,4 @@
-# iOS Haptics [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md)
+# iOS Haptics [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md) [![](https://img.shields.io/badge/swift-5.3-eb3d33.svg)](https://swift.org/blog/swift-5-3-released/) 
 
 ![](images/app.png)
 
