@@ -1,14 +1,18 @@
-# iOS Haptics ![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)
+# iOS Haptics [![](https://img.shields.io/badge/license-MIT-eb3d33.svg)](./LICENSE.md)
 
 Haptics engage people's sense of touch to enhance the experience of interacting with onscreen interfaces. You can read more [here](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/) 
 
-## Notification
+##  Haptics Demo for iPhone
+
+![](images/app.png)
+
+### Notification
 
 -   [Success](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 -   [Warning](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 -   [Failure](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 
-## Impact
+### Impact
 
 -   [Light](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 -   [Medium](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
@@ -16,12 +20,6 @@ Haptics engage people's sense of touch to enhance the experience of interacting 
 -   [Rigid](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 -   [Soft](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
 
-## Selection
+### Selection
 
 -   [Selection](https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/haptics/#)
-
----
-
-###  Haptics Demo for iPhone
-
-![](images/app.png)
