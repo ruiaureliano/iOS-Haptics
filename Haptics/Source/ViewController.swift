@@ -23,10 +23,6 @@ class ViewController: UIViewController {
 
 	var notificationGenerator: UINotificationFeedbackGenerator = UINotificationFeedbackGenerator()
 
-	override func viewDidLoad() {
-		super.viewDidLoad()
-	}
-
 	@IBAction func controlChanged(segmentedControl: UISegmentedControl) {
 		if segmentedControl.selectedSegmentIndex == 0 {
 			feedbackGenerator = UIImpactFeedbackGenerator(style: .light)
